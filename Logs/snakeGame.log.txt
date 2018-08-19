@@ -1,0 +1,54 @@
+Manish rolled Dice : 5 , {current Position : -1 newPosition : -1 } 
+																		Manisha rolled Dice : 1 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 6 , {current Position : -1 newPosition : 6 } 
+	 WOW Dice State 6 !!!! Got Extra Turn allowed 
+Manish rolled Dice : 6 , {current Position : 6 newPosition : 12 } 
+	 WOW Dice State 6 !!!! Got Extra Turn allowed 
+Manish rolled Dice : 1 , {current Position : 12 newPosition : 13 } 
+																		Manisha rolled Dice : 1 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 2 , {current Position : 13 newPosition : 15 } 
+																		Manisha rolled Dice : 4 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 3 , {current Position : 15 newPosition : 18 } 
+																		Manisha rolled Dice : 5 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 3 , {current Position : 18 newPosition : 21 } 
+																		Manisha rolled Dice : 3 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 6 , {current Position : 21 newPosition : 27 } 
+	 WOW Dice State 6 !!!! Got Extra Turn allowed 
+Manish rolled Dice : 3 , {current Position : 27 newPosition : 30 } 
+																		Manisha rolled Dice : 2 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 3 , {current Position : 30 newPosition : 51 } 
+playerName : Manish currentPosition : 30 diceState : 3 	 new square : 33 snakeOrLadder=LADDER, starting=33, ending=51}
+																		Manisha rolled Dice : 5 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 1 , {current Position : 51 newPosition : 70 } 
+playerName : Manish currentPosition : 51 diceState : 1 	 new square : 52 snakeOrLadder=LADDER, starting=52, ending=70}
+																		Manisha rolled Dice : 2 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 5 , {current Position : 70 newPosition : 75 } 
+																		Manisha rolled Dice : 5 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 1 , {current Position : 75 newPosition : 76 } 
+																		Manisha rolled Dice : 3 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 3 , {current Position : 76 newPosition : 79 } 
+																		Manisha rolled Dice : 4 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 6 , {current Position : 79 newPosition : 85 } 
+	 WOW Dice State 6 !!!! Got Extra Turn allowed 
+Manish rolled Dice : 2 , {current Position : 85 newPosition : 87 } 
+																		Manisha rolled Dice : 1 , {current Position : -1 newPosition : -1 } 
+Manish rolled Dice : 3 , {current Position : 87 newPosition : 90 } 
+																		Manisha rolled Dice : 6 , {current Position : -1 newPosition : 6 } 
+																			 WOW Dice State 6 !!!! Got Extra Turn allowed 
+																		Manisha rolled Dice : 1 , {current Position : 6 newPosition : 7 } 
+Manish rolled Dice : 1 , {current Position : 90 newPosition : 91 } 
+																		Manisha rolled Dice : 1 , {current Position : 7 newPosition : 45 } 
+																		playerName : Manisha currentPosition : 7 diceState : 1 	 new square : 8 snakeOrLadder=LADDER, starting=8, ending=45}
+Manish rolled Dice : 3 , {current Position : 91 newPosition : 94 } 
+																		Manisha rolled Dice : 6 , {current Position : 45 newPosition : 51 } 
+																			 WOW Dice State 6 !!!! Got Extra Turn allowed 
+																		Manisha rolled Dice : 4 , {current Position : 51 newPosition : 55 } 
+Manish rolled Dice : 6 , {current Position : 94 newPosition : 100 } 
+	 WOW Dice State 6 !!!! Got Extra Turn allowed 
+Manish rolled Dice : 3 , {current Position : 100 newPosition : 100 } 
+																		Manisha rolled Dice : 6 , {current Position : 55 newPosition : 61 } 
+																			 WOW Dice State 6 !!!! Got Extra Turn allowed 
+																		Manisha rolled Dice : 6 , {current Position : 61 newPosition : 67 } 
+																			 WOW Dice State 6 !!!! Got Extra Turn allowed 
+																		Manisha rolled Dice : 1 , {current Position : 67 newPosition : 28 } 
+																		playerName : Manisha currentPosition : 67 diceState : 1 	 new square : 68 snakeOrLadder=SNAKE, starting=68, ending=28}
